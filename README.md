@@ -17,7 +17,7 @@ For three months (June 2018 - September 2018), I interned as a software engineer
 - Implemented a new chat-widget feature (shown below, outlined in red) in the tokopedia.com homepage, which is built with this migration project. This allows the users to chat with merchants easily - affecting 50+ million users.  I lead this project, and worked with devops engineers (as above) and frontend designers to discuss useability, look and functionality.
 - In the span of 3 months, this project achieved 60KB gzipped size reduction for production-ready assets, and updated the severely outdated frontend stack with more modern, optimized tools. It also eased the path for future frontend development in tokopedia with an easier workflow and coding style.
 
-<img src="assets/2-2 Widget Chat - Chat Room.png" width="475px" />
+<img src="assets/2-2 Widget Chat - Chat Room.png"  />
 
 ## tepuknyamuk.com (2017 - 2018)
 
@@ -33,14 +33,14 @@ The game has a leveling system. A user's level is dictated by experience points.
 
 Below is the in game screen:
 
-<img src="https://raw.githubusercontent.com/willyspinner/tepuk-nyamuk/2018_upgrade/readmeStuff/gameplay.png" width="600px" />
+<img src="https://raw.githubusercontent.com/willyspinner/tepuk-nyamuk/2018_upgrade/readmeStuff/gameplay.png"  />
 
 Shown below is the main screen, where you would see available games in real time and chat with other players.
 
-<img src="assets/tpk.png" width="600px" />
+<img src="assets/tpk.png" />
  Finally, below is the game lobby where players wait for the gamemaster to start.
 
-<img src="assets/Screen Shot 2018-09-27 at 2.33.53 PM.png" width="600px" />
+<img src="assets/Screen Shot 2018-09-27 at 2.33.53 PM.png"  />
 
 ## textpert Audio Machine Learning project (2017-2018)
 
@@ -56,7 +56,7 @@ I teamed up with the Social Media Analytics team to analyze Facebook and Twitter
 
 I created an android mobile app that enabled japanese language learners to learn the kansai dialect of Japan. I myself enjoy learning languages, and in particular enjoy learning about japanese and its culture. The kansai dialect is one I am interested in, and so I made an app that gamified learning the vocabulary (単語) and grammar 文法), all culminating in a challenge stage that had both.
 
-<img src="assets/geewooigh.png" width="250px" />
+<img src="assets/geewooigh.png" width="300px" />
 
 # <u>ongoing projects</u>
 
@@ -66,13 +66,13 @@ Whatsapp is a popular mobile messaging platform used in Indonesia. I am currentl
 
 **Repository and Documentation**:https://github.com/willyspinner/whatsappbot
 
-<img src="assets/c4d3b3af-438f-4d17-8fb2-57d6690c958f.jpg" width="250px" />
+<img src="assets/c4d3b3af-438f-4d17-8fb2-57d6690c958f.jpg"  width="300px"/>
 
 ## automated trading (Automatrade) - (2018 - present)
 
 Although a long shot, I am taking on the challenge of exploring the world of Fintech by building a platform for me to develop stock and forex investment algorithms. The goal of this project would be to ease the process of conducting experiments with different investment strategies, and seeing how it performs with time. I wrote a usable API that allows people to create their own algorithms ('decision engines' - see below) that adhere to a set of rules, suggesting actions to buy or sell securities.
 
-<img src="assets/Screen Shot 2018-09-25 at 9.59.47 PM.png" width="450px" />
+<img src="assets/Screen Shot 2018-09-25 at 9.59.47 PM.png" />
 
 # <u>skillsets</u>
 
