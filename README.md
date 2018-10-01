@@ -8,7 +8,7 @@
 
 # <u>Past projects</u> 
 
-#### tokopedia.com chat-widget (2018)
+## tokopedia.com chat-widget (2018)
 
 For three months (June 2018 - September 2018), I interned as a software engineer in Tokopedia, Indonesia's biggest e-commerce platform. I accomplished the folllowing:
 
@@ -19,7 +19,7 @@ For three months (June 2018 - September 2018), I interned as a software engineer
 
 <img src="assets/2-2 Widget Chat - Chat Room.png" width="475px" />
 
-### tepuknyamuk.com (2017 - 2018)
+## tepuknyamuk.com (2017 - 2018)
 
 **This website is Live @**: [tepuknyamuk.com](https://tepuknyamuk.com) (you will need someone to play with)
 
@@ -42,17 +42,17 @@ Shown below is the main screen, where you would see available games in real time
 
 <img src="assets/Screen Shot 2018-09-27 at 2.33.53 PM.png" width="600px" />
 
-### textpert Audio Machine Learning project (2017-2018)
+## textpert Audio Machine Learning project (2017-2018)
 
 - Over the course of Winter quarter, and early Spring quarter, I spearheaded the Audio Machine Learning Project of AIME, Textpert's Artificial Intelligence Mental Evaluation product.
 - I Worked on developing LSTM networks to create an Audio Classification PoC that classifies whether someone is depressed or not.
 - I Contributed to the data processing pipeline end-to-end; I processed data from audio files to ready-to-train datasets, after careful feature selection and extraction.
 
-### gojek -Sentiment analysis project (2017)
+## gojek -Sentiment analysis project (2017)
 
 I teamed up with the Social Media Analytics team to analyze Facebook and Twitter feedback for GOJEK, Indonesia's largest transportation-based startup. Contribured to sentiment classification using LSTMs and neural networks implemented in tflearn library. Optimized to classify with 80% accuracy with all Indonesian comments.
 
-### KansaiBen app (android) (2016-2017)
+## KansaiBen app (android) (2016-2017)
 
 I created an android mobile app that enabled japanese language learners to learn the kansai dialect of Japan. I myself enjoy learning languages, and in particular enjoy learning about japanese and its culture. The kansai dialect is one I am interested in, and so I made an app that gamified learning the vocabulary (単語) and grammar 文法), all culminating in a challenge stage that had both.
 
@@ -60,7 +60,7 @@ I created an android mobile app that enabled japanese language learners to learn
 
 # <u>ongoing projects</u>
 
-### WhatsApp Chatbot (2018 - present)
+## WhatsApp Chatbot (2018 - present)
 
 Whatsapp is a popular mobile messaging platform used in Indonesia. I am currently creating a chat bot using whatsapp that resides in my self hosted servers I have back home (Indonesia). The goal of this chat bot is to automate repetitive tasks in the software development lifecycle, such as running builds, deployments, and checking system status. Instead of remotely logging on to the server, we would issue commands to the chat bot in a secure (2FA enforced) manner to execute tasks, wherever and whenever we want.
 
@@ -68,7 +68,7 @@ Whatsapp is a popular mobile messaging platform used in Indonesia. I am currentl
 
 <img src="assets/c4d3b3af-438f-4d17-8fb2-57d6690c958f.jpg" width="250px" />
 
-### automated trading (Automatrade) - (2018 - present)
+## automated trading (Automatrade) - (2018 - present)
 
 Although a long shot, I am taking on the challenge of exploring the world of Fintech by building a platform for me to develop stock and forex investment algorithms. The goal of this project would be to ease the process of conducting experiments with different investment strategies, and seeing how it performs with time. I wrote a usable API that allows people to create their own algorithms ('decision engines' - see below) that adhere to a set of rules, suggesting actions to buy or sell securities.
 
@@ -82,7 +82,7 @@ I maintain a multidisciplinary and flexible approach to developing applications.
 - business logic development (backend development)
 - front-facing application development (frontend development)
 
-### Sysadmin/ Devops
+## Sysadmin/ Devops
 
 | skill                                                     | description of skill                                         |
 | --------------------------------------------------------- | ------------------------------------------------------------ |
@@ -94,7 +94,7 @@ I maintain a multidisciplinary and flexible approach to developing applications.
 | Domain Name / DNS administration & SSL/TLS administration | Working with domain name providers such as namecheap and godaddy, DNS to launch a business' domain name, and to enable SSL/TLS for secure and trusted communication with the client and the server. |
 | Jenkins build server (Basics)                             | Setting up build and deploy jobs that can be automated.      |
 
-### Frontend
+## Frontend
 
 | skill                                                   | description of skill                                         |
 | ------------------------------------------------------- | ------------------------------------------------------------ |
@@ -108,7 +108,7 @@ I maintain a multidisciplinary and flexible approach to developing applications.
 | Native Android Development                              | A mobile framework that I use to build the japanese language application. |
 | React Native                                            | The react framework used for mobile that I learned to create similar frontend code to react.js. |
 
-### Backend
+## Backend
 
 | skill                                                        | description                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -122,15 +122,15 @@ I maintain a multidisciplinary and flexible approach to developing applications.
 | NoSQL databases - MongoDB                                    | DB management.                                               |
 | Service discovery - consul                                   | inter-service discovery and configuration for distributed microservices. |
 
-### machine learning
+## machine learning
 
 I am relatively proficient in using Keras with python to prototype applications powered by neural networks, having built a prototype LSTM networks in Gojek, to analyze the sentiment of comments for customer service and Textpert, where I made a POC audio classify depression.
 
-### data engineering
+## data engineering
 
 I am able to create pipelines for processing data in python having gained experience in processing raw audio files to trainable datasets in textpert.
 
- ### general languages
+ ## general languages
 
 | language                | description of skill                                         |
 | ----------------------- | ------------------------------------------------------------ |
@@ -141,6 +141,6 @@ I am able to create pipelines for processing data in python having gained experi
 | golang                  | After using golang in my tokopedia internship, it is now my primary langauge of choice for backends as I believe it to be the perfect blend of code elegance and strictness. |
 | C & C++                 | Freshman year was spent relearning basic OOP and programming skills with C and C++. I am also aware of performance optimization issues and solutions when using these languages. |
 
-### version control
+## version control
 
 I am proficient in versioning projects, having worked with git in either github or gitlab for all my projects and internships.
