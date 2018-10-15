@@ -8,7 +8,7 @@
 
 # <u>Past projects</u> 
 
-## tokopedia.com chat-widget (2018)
+## tokopedia.com (2018)
 
 For three months (June 2018 - September 2018), I interned as a software engineer in Tokopedia, Indonesia's biggest e-commerce platform. I accomplished the folllowing:
 
