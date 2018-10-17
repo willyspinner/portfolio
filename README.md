@@ -16,7 +16,7 @@ For three months (June 2018 - September 2018), I interned as a software engineer
 - Initiated a front-end migration project for tokopedia's chat service to React, ES6 & Webpack from an outdated PERL and ES5 React codebase. 
 - Created the entire project infrastructure: Optimized the webpack build process, created a golang frontend-server that serves the content, strategized staging & production deployment with devops engineers, and tested new features.
 - Implemented a new chat-widget feature (shown below, outlined in red) in the tokopedia.com homepage, which is built with this migration project. This allows the users to chat with merchants easily - affecting 50+ million users.  I lead this project, and worked with devops engineers (as above) and frontend designers to discuss useability, look and functionality.
-- In the span of 3 months, this project achieved 60KB gzipped size reduction for production-ready assets, and updated the severely outdated frontend stack with more modern, optimized tools. It also eased the path for future frontend development in tokopedia with an easier workflow and coding style.
+- In the span of 3 months, this project achieved 70KB gzipped size reduction for production-ready assets, and updated the severely outdated frontend stack with more modern, optimized tools. It also eased the path for future frontend development in tokopedia with an easier workflow and coding style.
 
 <img src="assets/2-2 Widget Chat - Chat Room.png"  />
 
@@ -51,7 +51,7 @@ Shown below is the main screen, where you would see available games in real time
 
 ## gojek -Sentiment analysis project (2017)
 
-I teamed up with the Social Media Analytics team to analyze Facebook and Twitter feedback for GOJEK, Indonesia's largest transportation-based startup. Contribured to sentiment classification using LSTMs and neural networks implemented in tflearn library. Optimized to classify with 80% accuracy with all Indonesian comments.
+I teamed up with the Social Media Analytics team to analyze Facebook and Twitter feedback for GOJEK, Indonesia's largest transportation-based startup. Contribured to sentiment classification using LSTMs and neural networks implemented in tflearn library. Optimized to classify with 78% accuracy with all Indonesian comments.
 
 ## KansaiBen app (android) (2016-2017)
 
@@ -125,7 +125,9 @@ I maintain a multidisciplinary and flexible approach to developing applications.
 
 ## machine learning
 
-I am relatively proficient in using Keras with python to prototype applications powered by neural networks, having built a prototype LSTM networks in Gojek, to analyze the sentiment of comments for customer service and Textpert, where I made a POC audio classify depression.
+I am relatively proficient in using Keras with python to prototype applications powered by neural networks, having built a prototype LSTM networks in Gojek, to analyze the sentiment of comments for customer service and Textpert, where I made a POC audio NN to classify depression.
+
+I am comfortable in using Keras and TFLearn (tensorflow) to use models of Linear Regression, Classification, NNs, RNNs, LSTMs and word2vec.
 
 ## data engineering
 
