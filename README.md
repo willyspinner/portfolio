@@ -26,7 +26,7 @@ For three months (June 2018 - September 2018), I interned as a software engineer
 
 **Repository and Documentation**: [github.com/willyspinner/tepuk-nyamuk](https://github.com/willyspinner/tepuk-nyamuk)
 
-A personal project of mine, I fully designed, architected, and programmed this online, multi-player, and real-time indonesian card game which is currently hosted in DigitalOcean Singapore. I used some of my free time in winter and spring quarter to develop this game after learning about advanced web development concepts such as websockets, in-memory databases (redis) and frontend development with React.js.
+A personal project of mine, I fully designed, architected, and programmed this online, multi-player, and real-time indonesian card game which is currently hosted in DigitalOcean San Francisco. I used some of my free time in winter and spring quarter to develop this game after learning about advanced web development concepts such as websockets, in-memory databases (redis) and frontend development with React.js.
 
 The aim of 'tepuk-nyamuk' (literally, mosquito slapping) is to count from Ace to king repeatedly and throw an unseen card from your hand to a central pile. When the card and count matches, everyone must slap the pile. The last one to slap has to take all of it. The winner is the person who finishes their hand, and slaps three times afterwards (streaks).
 
