@@ -16,7 +16,7 @@ For three months (June 2018 - September 2018), I interned as a software engineer
 - Initiated a front-end migration project for tokopedia's chat service to React, ES6 & Webpack from an outdated PERL and ES5 React codebase. 
 - Created the entire project infrastructure: Optimized the webpack build process, created a golang frontend-server that serves the content, strategized staging & production deployment with devops engineers, and tested new features.
 - Implemented a new chat-widget feature (shown below, outlined in red) in the tokopedia.com homepage, which is built with this migration project. This allows the users to chat with merchants easily - affecting 50+ million users.  I lead this project, and worked with devops engineers (as above) and frontend designers to discuss useability, look and functionality.
-- In the span of 3 months, this project achieved 70KB gzipped size reduction for production-ready assets, and updated the severely outdated frontend stack with more modern, optimized tools. It also eased the path for future frontend development in tokopedia with an easier workflow and coding style.
+- In the span of 3 months, this project achieved 75KB gzipped size reduction for production-ready assets, and updated the severely outdated frontend stack with more modern, optimized tools. It also eased the path for future frontend development in tokopedia with an easier workflow and coding style.
 
 <img src="assets/2-2 Widget Chat - Chat Room.png"  />
 
