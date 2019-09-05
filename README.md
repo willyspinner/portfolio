@@ -71,8 +71,6 @@ I created an android mobile app that enabled japanese language learners to learn
 
 <img src="assets/geewooigh.png" width="300px" />
 
-# <u>ongoing projects</u>
-
 ## WhatsApp Chatbot (2018 - present)
 
 Whatsapp is a popular mobile messaging platform used in Indonesia. I am currently creating a chat bot using whatsapp that resides in my self hosted servers I have back home (Indonesia). The goal of this chat bot is to automate repetitive tasks in the software development lifecycle, such as running builds, deployments, and checking system status. Instead of remotely logging on to the server, we would issue commands to the chat bot in a secure (2FA enforced) manner to execute tasks, wherever and whenever we want.
@@ -80,12 +78,6 @@ Whatsapp is a popular mobile messaging platform used in Indonesia. I am currentl
 **Repository and Documentation**:https://github.com/willyspinner/whatsappbot
 
 <img src="assets/c4d3b3af-438f-4d17-8fb2-57d6690c958f.jpg"  width="300px"/>
-
-## automated trading (Automatrade) - (2018 - present)
-
-Although a long shot, I am taking on the challenge of exploring the world of Fintech by building a platform for me to develop stock and forex investment algorithms. The goal of this project would be to ease the process of conducting experiments with different investment strategies, and seeing how it performs with time. I wrote a usable API that allows people to create their own algorithms ('decision engines' - see below) that adhere to a set of rules, suggesting actions to buy or sell securities.
-
-<img src="assets/Screen Shot 2018-09-25 at 9.59.47 PM.png" />
 
 # <u>skillsets</u>
 
