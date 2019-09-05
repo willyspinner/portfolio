@@ -6,6 +6,18 @@
 **Resume**:https://github.com/willyspinner/portfolio/blob/master/2018_wilson_jusuf_resume.pdf
 
 **Email**: wilsonjusuf1998@gmail.com
+# <u> Ongoing Projects </u> 
+
+## Missing Child - IBM Call for Code 2019 
+
+We develop a Machine Learning Algorithm to recognize parent-child relationships by using the FIW dataset. We are able to gain a 86% accuracy in relationship verification.
+
+We are continuing the devlopment of this project by fine-tuning networks, creating a mobile frontend and developing a scalable backend to realize this project.
+
+![Network Architecture ](https://docs.google.com/drawings/d/e/2PACX-1vQ8U3VpxiEMBZjwiohKaD9AMxnCiTWgx9hjdq3mOVeJMTNZXeq1EE2O1RuOsnaRiq9kpmHpK7mpxr1E/pub?w=960&h=720)
+
+
+see https://github.com/willyspinner/missing-child for more info!
 
 # <u>Past projects</u> 
 
@@ -83,7 +95,7 @@ I maintain a multidisciplinary and flexible approach to developing applications.
 - business logic development (backend development)
 - front-facing application development (frontend development)
 
-## Sysadmin/ Devops
+## Infrastructure
 
 | skill                                                     | description of skill                                         |
 | --------------------------------------------------------- | ------------------------------------------------------------ |
@@ -125,13 +137,9 @@ I maintain a multidisciplinary and flexible approach to developing applications.
 
 ## machine learning
 
-I am relatively proficient in using Keras with python to prototype applications powered by neural networks, having built a prototype LSTM networks in Gojek, to analyze the sentiment of comments for customer service and Textpert, where I made a POC audio NN to classify depression.
+I am proficient in using Keras with python to prototype applications powered by neural networks, having built a prototype LSTM networks in Gojek, to analyze the sentiment of comments for customer service and Textpert, where I made a POC audio NN to classify depression.
 
-I am comfortable in using Keras and TFLearn (tensorflow) to use models of Linear Regression, Classification, NNs, RNNs, LSTMs and word2vec.
-
-## data engineering
-
-I am able to create pipelines for processing data in python having gained experience in processing raw audio files to trainable datasets in textpert.
+I am comfortable in using Keras, Tneosrflow, and TFLearn (tensorflow) to use models of Linear Regression, Classification, NNs, RNNs, LSTMs and word2vec.
 
  ## general languages
 
