@@ -10,7 +10,7 @@
 
 ## Missing Child - IBM Call for Code 2019 
 
-We develop a Machine Learning Algorithm to recognize parent-child relationships by using the FIW dataset. We are able to gain a 86% accuracy in relationship verification.
+We develop a Machine Learning Algorithm to recognize parent-child relationships by using the FIW dataset. We are able to gain a 90.2% testing accuracy in relationship verification.
 
 We are continuing the devlopment of this project by fine-tuning networks, creating a mobile frontend and developing a scalable backend to realize this project.
 
