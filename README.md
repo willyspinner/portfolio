@@ -6,7 +6,7 @@
 **Resume**:https://github.com/willyspinner/portfolio/blob/master/2019_wilson_jusuf_resume.pdf
 
 **Email**: wilsonjusuf1998@gmail.com
-# <u> Ongoing Projects </u> 
+# <u>Ongoing Projects</u> 
 
 ## Missing Child - IBM Call for Code 2019 
 
