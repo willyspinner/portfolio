@@ -3,7 +3,7 @@
 **Linkedin**: https://www.linkedin.com/in/wilsonjusuf/
 
 **Github**: https://github.com/willyspinner
-**Resume**:https://github.com/willyspinner/portfolio/blob/master/2019_wilson_jusuf_resume.pdf
+**Resume**:https://github.com/willyspinner/portfolio/blob/master/wilson_jusuf_resume.pdf
 
 **Email**: wilsonjusuf1998@gmail.com
 # <u>Ongoing Projects</u> 
